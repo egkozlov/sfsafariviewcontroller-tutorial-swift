@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var openBrowserButton: UIButton!
     @IBOutlet weak var openReaderButton: UIButton!
     
-    private var urlString:String = "https://www.w3schools.com/js/tryit.asp?filename=tryjs_cookie_username"
+    private var urlString:String = "https://j7y8jx215y.codesandbox.io/"
     
     override func viewDidLoad() {
         super.viewDidLoad()
